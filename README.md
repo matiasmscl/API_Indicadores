@@ -1,2 +1,2 @@
 # API_Indicadores
-API para buscar indicadores económicos. 
+Script para buscar indicadores económicos. 
